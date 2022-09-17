@@ -1,5 +1,1 @@
-¡Veo que no sólo sabes de Bash! ¡Pongamos a prueba tus conocimientos de biología!
-
-INSTRUCCIONES: Contá cuántas secuencias de 'Homo sapines' tiene en total todos los archivos .fasta de la carpeta y andá al directorio que se corresponda con ese número para saber cómo seguir
-
-
+Lo siento, acáno hay nada útil! =(
